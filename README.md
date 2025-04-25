@@ -12,7 +12,7 @@
 ### 安裝
 1. 克隆倉庫
 ```bash
-git clone [repository-url]
+git clone https://github.com/ML-Henry0912/Trae_0425.git
 cd Trae_0425
 ```
 
